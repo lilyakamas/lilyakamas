@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science!
 - 🌱 I’m currently a first year master student at CU Boulder
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on <a href="https://www.linkedin.com/in/lily-kamas/">on Linkedin</a>
+- 📫 Reach me <a href="https://www.linkedin.com/in/lily-kamas/">on Linkedin</a>
 
 
 <!---
