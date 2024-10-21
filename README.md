@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lilyakamas
 - 👀 I’m interested in data science!
-- 🌱 I’m currently an Information Science Masters student at CU Boulder
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me <a href="https://www.linkedin.com/in/lily-kamas/">on Linkedin</a>
 
